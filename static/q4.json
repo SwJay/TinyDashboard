@@ -1,0 +1,407 @@
+[
+    {
+      "category": "中老年男装",
+      "items": [
+        {
+          "name": "JackJones官方旗舰店",
+          "sale": 244046
+        },
+        {
+          "name": "恒源祥旗舰店",
+          "sale": 232382
+        },
+        {
+          "name": "波司登男装旗舰店",
+          "sale": 88918
+        },
+        {
+          "name": "鹿竹服饰旗舰店",
+          "sale": 50970
+        },
+        {
+          "name": "恒源祥风度专卖店",
+          "sale": 45990
+        },
+        {
+          "name": "梦梵莎旗舰店",
+          "sale": 34720
+        },
+        {
+          "name": "恒源祥微然专卖店",
+          "sale": 34089
+        },
+        {
+          "name": "豪斯威衫旗舰店",
+          "sale": 28215
+        },
+        {
+          "name": "木笛服饰旗舰店",
+          "sale": 23835
+        },
+        {
+          "name": "恒源祥恒娟专卖店",
+          "sale": 22308
+        }
+      ]
+    },
+    {
+      "category": "时尚女装",
+      "items": [
+        {
+          "name": "优衣库官方旗舰店",
+          "sale": 4467911
+        },
+        {
+          "name": "Gap官方旗舰店",
+          "sale": 572147
+        },
+        {
+          "name": "真维斯官方旗舰店",
+          "sale": 512093
+        },
+        {
+          "name": "唐狮官方旗舰店",
+          "sale": 322533
+        },
+        {
+          "name": "乐町官方旗舰店",
+          "sale": 186343
+        },
+        {
+          "name": "a21官方旗舰店",
+          "sale": 182314
+        },
+        {
+          "name": "TeenieWeenie官方旗舰店",
+          "sale": 147107
+        },
+        {
+          "name": "婳妖旗舰店",
+          "sale": 144564
+        },
+        {
+          "name": "gu官方旗舰店",
+          "sale": 125686
+        },
+        {
+          "name": "puella官方旗舰店",
+          "sale": 93100
+        }
+      ]
+    },
+    {
+      "category": "休闲时尚",
+      "items": [
+        {
+          "name": "pullandbear官方旗舰店",
+          "sale": 49920
+        },
+        {
+          "name": "guess官方旗舰店",
+          "sale": 34256
+        },
+        {
+          "name": "dickies官方旗舰店",
+          "sale": 25085
+        },
+        {
+          "name": "惠氏健康生活海外旗舰店",
+          "sale": 25027
+        },
+        {
+          "name": "STAYREAL旗舰店",
+          "sale": 21333
+        },
+        {
+          "name": "sneakerhead海外旗舰店",
+          "sale": 21067
+        },
+        {
+          "name": "superdry旗舰店",
+          "sale": 12724
+        },
+        {
+          "name": "米丽海外专营店",
+          "sale": 11632
+        },
+        {
+          "name": "KAKAOFRIENDS海外旗舰店",
+          "sale": 10538
+        },
+        {
+          "name": "福美家鞋类旗舰店",
+          "sale": 9571
+        }
+      ]
+    },
+    {
+      "category": "进口零食",
+      "items": [
+        {
+          "name": "Calbee海外旗舰店",
+          "sale": 150580
+        },
+        {
+          "name": "Mistine海外旗舰店",
+          "sale": 124452
+        },
+        {
+          "name": "COSTCO海外旗舰店",
+          "sale": 106226
+        },
+        {
+          "name": "阿里健康海外旗舰店",
+          "sale": 97715
+        },
+        {
+          "name": "freedomFOODS海外旗舰店",
+          "sale": 84847
+        },
+        {
+          "name": "CremedelaCream海外旗舰店",
+          "sale": 71594
+        },
+        {
+          "name": "宝洁海外旗舰店",
+          "sale": 66257
+        },
+        {
+          "name": "楼上海外旗舰店",
+          "sale": 59370
+        },
+        {
+          "name": "德盛行海外旗舰店",
+          "sale": 52830
+        },
+        {
+          "name": "Aldi海外旗舰店",
+          "sale": 51214
+        }
+      ]
+    },
+    {
+      "category": "进口母婴产品",
+      "items": [
+        {
+          "name": "环球e站海外专营店",
+          "sale": 100582
+        },
+        {
+          "name": "Gerber官方海外旗舰店",
+          "sale": 94974
+        },
+        {
+          "name": "moony海外旗舰店",
+          "sale": 40047
+        },
+        {
+          "name": "贝贝金海外专营店",
+          "sale": 34012
+        },
+        {
+          "name": "ecstorm海外旗舰店",
+          "sale": 30340
+        },
+        {
+          "name": "跨境淘母婴海外专营店",
+          "sale": 26912
+        },
+        {
+          "name": "Aveeno海外旗舰店",
+          "sale": 26053
+        },
+        {
+          "name": "ecostore海外旗舰店",
+          "sale": 22162
+        },
+        {
+          "name": "郑氏海外专营店",
+          "sale": 21570
+        },
+        {
+          "name": "纽迪希亚官方海外旗舰店",
+          "sale": 21395
+        }
+      ]
+    },
+    {
+      "category": "潮流青年",
+      "items": [
+        {
+          "name": "太平鸟男装旗舰店",
+          "sale": 171631
+        },
+        {
+          "name": "lilbetter旗舰店",
+          "sale": 137731
+        },
+        {
+          "name": "千纸鹤旗舰店",
+          "sale": 110921
+        },
+        {
+          "name": "迈特优服饰旗舰店",
+          "sale": 104182
+        },
+        {
+          "name": "panmax旗舰店",
+          "sale": 101295
+        },
+        {
+          "name": "红桃八旗舰店",
+          "sale": 100231
+        },
+        {
+          "name": "no1dara旗舰店",
+          "sale": 98380
+        },
+        {
+          "name": "baleno班尼路旗舰店",
+          "sale": 85216
+        },
+        {
+          "name": "春雷鞋类专营店",
+          "sale": 62986
+        },
+        {
+          "name": "bershka官方旗舰店",
+          "sale": 62429
+        }
+      ]
+    },
+    {
+      "category": "进口护肤品",
+      "items": [
+        {
+          "name": "AHC官方海外旗舰店",
+          "sale": 136568
+        },
+        {
+          "name": "采妍国际海外旗舰店",
+          "sale": 115585
+        },
+        {
+          "name": "Jayjun海外旗舰店",
+          "sale": 58083
+        },
+        {
+          "name": "MARTIDERM海外旗舰店",
+          "sale": 56297
+        },
+        {
+          "name": "cosme官方海外旗舰店",
+          "sale": 54825
+        },
+        {
+          "name": "MatsumotoKiYoshi海外旗舰店",
+          "sale": 53761
+        },
+        {
+          "name": "utena佑天兰海外旗舰店",
+          "sale": 51548
+        },
+        {
+          "name": "emart官方海外旗舰店",
+          "sale": 50490
+        },
+        {
+          "name": "梓薇国际海外专营店",
+          "sale": 50441
+        },
+        {
+          "name": "阿部药妆海外旗舰店",
+          "sale": 47804
+        }
+      ]
+    },
+    {
+      "category": "进口美妆品",
+      "items": [
+        {
+          "name": "RealTechniques海外旗舰店",
+          "sale": 153969
+        },
+        {
+          "name": "钤濎行海外专营店",
+          "sale": 99760
+        },
+        {
+          "name": "realls海外专营店",
+          "sale": 97106
+        },
+        {
+          "name": "保利屋海外专营店",
+          "sale": 61124
+        },
+        {
+          "name": "LG生活健康个护海外旗舰店",
+          "sale": 60461
+        },
+        {
+          "name": "MILANI官方海外旗舰店",
+          "sale": 50466
+        },
+        {
+          "name": "stylenanda海外旗舰店",
+          "sale": 48675
+        },
+        {
+          "name": "芯动力国际海外专营店",
+          "sale": 46739
+        },
+        {
+          "name": "DrCiLabo海外旗舰店",
+          "sale": 45658
+        },
+        {
+          "name": "CANMAKE海外旗舰店",
+          "sale": 45359
+        }
+      ]
+    },
+    {
+      "category": "进口保健品",
+      "items": [
+        {
+          "name": "ChemistWarehouse海外旗舰店",
+          "sale": 261808
+        },
+        {
+          "name": "swisse官方海外旗舰店",
+          "sale": 156387
+        },
+        {
+          "name": "dm海外旗舰店",
+          "sale": 101371
+        },
+        {
+          "name": "圣卡斯国际海外专营店",
+          "sale": 89505
+        },
+        {
+          "name": "GNC健安喜官方海外旗舰店",
+          "sale": 86111
+        },
+        {
+          "name": "HealthElement海外旗舰店",
+          "sale": 44706
+        },
+        {
+          "name": "BLACKMORES海外旗舰店",
+          "sale": 43246
+        },
+        {
+          "name": "careplus海外旗舰店",
+          "sale": 32932
+        },
+        {
+          "name": "movefree官方海外旗舰店",
+          "sale": 31635
+        },
+        {
+          "name": "同仁堂海外旗舰店",
+          "sale": 27567
+        }
+      ]
+    }
+  ]
