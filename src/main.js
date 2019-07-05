@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import axios from 'axios';
+import axios from 'axios'
 
 import {
   MdIcon
@@ -13,9 +13,8 @@ import infiniteScroll from 'vue-infinite-scroll'
 import 'vue-material/dist/vue-material.min.css'
 import 'vue-material/dist/theme/default.css' // This line here
 
-
-axios.defaults.baseURL='http://www.virgilsun.com/TinyDashboard'
-Vue.prototype.axios=axios
+axios.defaults.baseURL = 'http://www.virgilsun.com/TinyDashboard'
+Vue.prototype.axios = axios
 Vue.config.productionTip = false
 Vue.use(VueMaterial)
 Vue.use(MdIcon)
