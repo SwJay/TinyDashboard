@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "去",
+        "sale": 1111111,
+        "keyword": [
+            "qqqq",
+            "aaaa"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "我",
+        "sale": 222222,
+        "keyword": [
+            "wwww",
+            "ssss"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "饿",
+        "sale": 33333,
+        "keyword": [
+            "eeee",
+            "dddd"
+        ]
+    }
+]
