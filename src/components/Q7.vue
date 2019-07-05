@@ -6,8 +6,6 @@
 </template>
 
 <script>
-// axios
-let axios = require('axios')
 // echarts
 // 引入基本模板
 let echarts = require('echarts/lib/echarts')
@@ -22,12 +20,12 @@ export default {
   data () {
     return {
       msg: '字符云',
-      file: 'http://localhost:8080/static/q7.json',
+      file: '/static/q7.json',
       data: []
     }
   },
   mounted () {
-    axios.get(this.file).then(response => {
+    this.axios.get(this.file).then(response => {
       response.data.forEach(item => {
         this.data.push({
           name: item.name,

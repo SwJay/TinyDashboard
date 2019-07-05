@@ -6,8 +6,6 @@
 </template>
 
 <script>
-// axios
-let axios = require('axios')
 // echarts
 // 引入基本模板
 let echarts = require('echarts/lib/echarts')
@@ -22,14 +20,14 @@ export default {
   data () {
     return {
       msg: '销售额统计',
-      file: 'http://localhost:8080/static/q1.json',
+      file: '/static/q1.json',
       shops: [],
       sales: [],
       keyword: []
     }
   },
   mounted () {
-    axios.get(this.file).then(response => {
+    this.axios.get(this.file).then(response => {
       response.data.forEach(item => {
         this.shops.push(item.name)
         this.sales.push(item.sale)
