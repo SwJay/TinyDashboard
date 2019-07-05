@@ -1,5 +1,5 @@
 # TinyDashboard
-Frontend for a big data project in class.
+Frontend for a big data project in class. View this dashboard [here](http://www.virgilsun.com/TinyDashboard/dist).
 
 > A Vue.js project
 
