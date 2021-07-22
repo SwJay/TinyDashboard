@@ -20,7 +20,7 @@
     "vue-infinite-scroll": "^2.0.2",
     "vue-material": "^1.0.0-beta-11",
     "vue-router": "^3.0.1",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
